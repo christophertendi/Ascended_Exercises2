@@ -1,6 +1,6 @@
 public class Multiplication
 {
-    public static void main (String args[])
+    public static void main (String[] args)
     {
         int x[][]={{1,2,3},{7,1,2},{4,2,1}};
         int y[][]={{4,5,6},{9,5,3},{8,7,8}};
